@@ -28,7 +28,7 @@ After running the program you will be see a welcome screen with 2 options
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-1) THE SERVER SIDE - 
+1) THE SERVER SIDE --
 
 This is the program which can be used to add new entries to the existing databse..... 
 In the server side login, you will be taken to a login screen where you have to use the given credentials -----:>
