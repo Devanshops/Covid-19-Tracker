@@ -4,9 +4,15 @@
 We have made a Corona Virus Progression program, which shows the progress of the virus in 5 countries-:
 
 1) India
+
 2) Italy
+
 3) USA
+
 4) Spain
+
+
+
 5) China
 
 This program Excessively uses Linked list, Stack, file handling, the knowledge of the conio.h library etc. We made a mathematical algorithm to determine the growth of the virus for the upcoming days, pretty accurate for upto 15 days.
